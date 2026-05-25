@@ -1,0 +1,13 @@
+name = "JAOPCACustom"
+filename = "JAOPCACustom-1.12-2.2.2.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3225fbab4888918b0008f740f0cde62bfa6bd0df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2497317
+project-id = 274440

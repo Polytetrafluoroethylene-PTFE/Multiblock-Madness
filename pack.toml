@@ -1,0 +1,13 @@
+name = "Multiblock Madness"
+author = "gtjoe51"
+version = "3.2.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2af77a4e71309186df900bf26689dbc955b82803b6ef7602b03c3abfce3f2c7f"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

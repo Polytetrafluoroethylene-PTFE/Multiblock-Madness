@@ -1,0 +1,13 @@
+name = "Ender Ore"
+filename = "Ender Ore-1.12.2-v1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42906874907e142143dc5549a900ac233cd6cda4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2571132
+project-id = 254035

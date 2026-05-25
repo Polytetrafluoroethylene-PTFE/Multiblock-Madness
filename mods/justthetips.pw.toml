@@ -1,0 +1,13 @@
+name = "JustTheTips"
+filename = "justthetips-1.12-1.0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff399c0bbb2f82fbb0b6dcbc9be43464d1cf0900"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2468740
+project-id = 275356

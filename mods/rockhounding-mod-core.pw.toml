@@ -1,0 +1,13 @@
+name = "Rockhounding Mod: Core"
+filename = "rockhounding_core-1.12.2-3.27.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2e1ad21e5ae6b4d73213739cabfde4b182c13ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3287602
+project-id = 271298

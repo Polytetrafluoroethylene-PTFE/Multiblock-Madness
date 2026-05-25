@@ -1,0 +1,13 @@
+name = "Treasure2: Wizardry Loot Pack"
+filename = "Treasure2WizardryLP-mc1.12.2-f14.23.5.2854-v1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54620d8bee7f5b1b9274d603cb5bf17a7bfab89c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3508235
+project-id = 433389

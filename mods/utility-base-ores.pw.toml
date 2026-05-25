@@ -1,0 +1,13 @@
+name = "Utility Base Ores"
+filename = "utilitybaseores-1.12.2-1.2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dde34d390c63823c07ce61092c4440607e595d45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2484098
+project-id = 261648
